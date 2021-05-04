@@ -2,17 +2,17 @@
 
 Using public domain artwork images (supposedly) to tell a story.
 
-Juan de Pareja (1606–1670)
-1650
-Velázquez (Diego Rodríguez de Silva y Velázquez)
+Juan de Pareja (1606–1670)</br>
+1650<br/>
+<em>Velázquez</em> (Diego Rodríguez de Silva y Velázquez)</br>
 
-Aristotle with a Bust of Homer
-1653
-Rembrandt (Rembrandt van Rijn) 
+Aristotle with a Bust of Homer</br>
+1653</br>
+<em>Rembrandt</em> (Rembrandt van Rijn)</br>
 
 The Annunciation
 ca. 1485-92
-Botticelli (Alessandro di Mariano Filipepi) 
+<em>Botticelli</em> (Alessandro di Mariano Filipepi)<br>
 
 1.  **Start developing.**
 
