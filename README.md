@@ -1,18 +1,18 @@
 # EAC
 
-Using public domain artwork images (supposedly) to tell a story.
+Using public domain artwork images to tell a story.
 
-Juan de Pareja (1606–1670)</br>
+<em>Juan de Pareja (1606–1670)</em></br>
 1650<br/>
-<em>Velázquez</em> (Diego Rodríguez de Silva y Velázquez)</br>
+Velázquez (Diego Rodríguez de Silva y Velázquez)</br>
 
-Aristotle with a Bust of Homer</br>
+<em>Aristotle with a Bust of Homer</em></br>
 1653</br>
-<em>Rembrandt</em> (Rembrandt van Rijn)</br>
+Rembrandt (Rembrandt van Rijn)</br>
 
-The Annunciation
-ca. 1485-92
-<em>Botticelli</em> (Alessandro di Mariano Filipepi)<br>
+<em>The Annunciation</em></br>
+ca. 1485-92</br>
+Botticelli (Alessandro di Mariano Filipepi)<br>
 
 1.  **Start developing.**
 
