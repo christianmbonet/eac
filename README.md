@@ -1,4 +1,4 @@
-# EAC
+# notepad
 
 Using public domain artwork images.
 
