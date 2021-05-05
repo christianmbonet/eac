@@ -1,0 +1,24 @@
+.one {
+    display: flex;
+    height: 700px;
+    width: 600px;
+    margin: 0px;
+    padding: 10px;
+}
+
+
+.two {
+    display: flex;
+    height: 700px;
+    width: 1200px;
+    margin: 0px;
+    padding: 10px;
+}
+
+.three {
+    display: flex;
+    height: 700px;
+    width: 600px;
+    margin: 0px;
+    padding: 10px;
+}
