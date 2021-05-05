@@ -1,6 +1,6 @@
 # EAC
 
-Using public domain artwork images to tell a story.
+Using public domain artwork images.
 
 <em>Juan de Pareja (1606–1670)</em></br>
 1650<br/>
